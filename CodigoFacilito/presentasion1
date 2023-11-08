@@ -1,6 +1,0 @@
-static void main(string)[] args)
-{
-//Este es un programa de Hola Mundo
-console.writeline("Hola Mundo");
-console.readkey();
-}
